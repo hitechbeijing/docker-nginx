@@ -3,7 +3,7 @@
 #
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
-FROM kylin-os:v10-2403
+FROM hello2008/kylin-os:v10-2403
 
 
 ENV NGINX_VERSION=1.28.0 \
